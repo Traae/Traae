@@ -8,19 +8,28 @@ I'm graduating with a BS in CS from ISU.
 
 At this time I'm looking to start my career in the feild. While I'm mostly intrested in Software Engineering and Development, I'm interested in learning and trying out almost everything in the feild. There's a distiction between what things are like in a scholl enviroment as compared to a work enviroment. So, I'm open to trying new things and getting well rounded understanding of everything in the computing space.
 
+## My Skills and Expirience
+
+### Language
+
+|                                  Confident                                   |                                    Have Used                                     |                                  Have Touched                                  |
+| :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+| ![<img align="left" alt="Java" width="48px" height="48px">](images/java.png) | ![<img align="left" alt="Python" width="48px" height="48px">](images/python.png) | ![<img align="left" alt="LATEX" width="48px" height="48px">](images/latex.png) |
+|    ![<img align="left" alt="C" width="48px" height="48px">](images/c.png)    |                                        .                                         |                                       .                                        |
+
 <!--
 ## What
 
 ## Languages:
 
 ### Competent
-![<img align="left" alt="C" width="48px" height="48px">](images/c.png)
-![<img align="left" alt="Java" width="48px" height="48px">](images/java.png)
-![<img align="left" alt="Python" width="48px" height="48px">](images/python.png)
+
+
+
 
 ![<img align="left" alt="HTML" width="48px" height="48px">](images/html.png)
 ![<img align="left" alt="CSS" width="48px" height="48px">](images/css.png)
-![<img align="left" alt="LATEX" width="48px" height="48px">](images/latex.png)
+
 ![<img align="left" alt="MySQL" width="48px" height="48px">](images/mysql.png)
 ### Tools:
 
