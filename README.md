@@ -1,3 +1,7 @@
+## Looking for work!
+
+Internship, Part-time, Full-time. Put me in Coach! I can take 'em.
+
 # About Me
 
 I'm graduating with a BS in CS from ISU.
