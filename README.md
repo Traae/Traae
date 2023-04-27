@@ -23,7 +23,7 @@ TODO Fill this out.
 
 #### Have Used:
 
-![<img align="left" alt="Cpp" width="48px" height="48px">](images/C++.png)
+![<img align="left" alt="Cpp" width="25px" height="48px">](images/C++.png)
 ![<img align="left" alt="Gradle" width="48px" height="48px">](images/gradle.png)
 ![<img align="left" alt="Python" width="48px" height="48px">](images/python.png)
 ![<img align="left" alt="CSS" width="48px" height="48px">](images/css.png)
